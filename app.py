@@ -19,8 +19,7 @@ from flask import Flask, jsonify
 # ---------------------------------------------------------------------------
 CHANNELS = [
     ("JEE Wallah", "@PW-JEEWallah"),
-    ("Fail Game 2.0
-", "@FailGame20"),
+    ("Fail Game 2.0", "@FailGame20"),
     ("Gameranx", "@gameranx"),
 ]
 # ---------------------------------------------------------------------------
