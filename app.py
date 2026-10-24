@@ -18,8 +18,8 @@ from flask import Flask, jsonify
 #    These are just examples. Replace them with gameplay channels you like.
 # ---------------------------------------------------------------------------
 CHANNELS = [
-    ("JEE Wallah", "@PW-JEEWallah"),
-    ("Fail Game 2.0", "@FailGame20"),
+    ("MKIceAndFire", "@MKIceAndFire"),
+    ("GTX 1050 Ti", "@GTX1050TiFireflyGaming"),
     ("Gameranx", "@gameranx"),
 ]
 # ---------------------------------------------------------------------------
